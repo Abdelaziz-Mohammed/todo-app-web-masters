@@ -1,6 +1,6 @@
 # Movie App – Web Masters Internship Project
 
-**📽️ App Demo:** [Click to view the video](assets/toDoApp.mp4)
+![Thumbnail](images/thumbnail.png)
 
 ## Project Overview
 A clean, responsive Todo List web application built with **HTML**, **CSS**, and **JavaScript**. This app allows users to manage tasks with features such as adding, deleting, marking as done, and storing tasks in local storage.
